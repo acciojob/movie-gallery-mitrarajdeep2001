@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.fluid{
+	display:grid;
+	grid-template-column:repeat(12, 1fr);
+}
